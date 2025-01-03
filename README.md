@@ -116,10 +116,10 @@
     # git remote add <remote name> <url>
 
     git branch -M main
-    # 修改分支的名字的为main
+    # 修改本地分支的名字的为main
 
     git push -u origin main
-    # git push 将代码上传服务器上
+    # git push 将代码上传服务器上 main是本地分支名字
     ```
 
     将本地库上传 gitee：
